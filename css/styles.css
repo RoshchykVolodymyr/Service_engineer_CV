@@ -1,0 +1,236 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f5f7fa;
+    font-family: 'Montserrat';
+    color: #595959;
+    padding: 40px;
+
+}
+
+.wrapper {
+    background-color: #ffffff;
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+
+}
+
+/* Стили сайдбара */
+
+.sidebar {
+    background-color: #1e2939;
+    width: 370px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
+
+.avatar {
+    max-width: 370px;
+}
+
+.contacts {
+    color: #ffffff;
+    margin-top: 60px;
+    margin-left: 40px;
+    margin-bottom: 54px;
+}
+
+.letters_indication_C_E {
+    margin-right: 10px;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.contacts_title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+
+.contacts_link {
+    color: #747a84;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.tech_skills {
+    color: #ffffff;
+    margin-left: 40px;
+    margin-bottom: 52px;
+}
+
+.Tech_Skills_title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+
+}
+
+.tech_skills_list {
+    color: #ff6b08;
+    margin-left: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.tech_skills_item {
+    color: #aeb2b8;
+}
+
+.Soft_skills {
+    color: #ffffff;
+    margin-left: 40px;
+    margin-bottom: 52px;
+}
+
+.Soft_skill_title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+
+.soft_skills_list {
+
+    color: #ff6b08;
+    margin-left: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.soft_skills_item {
+    color: #aeb2b8;
+}
+
+/* Стили основного контейнера */
+
+.about_me_container {
+    max-width: 1200px;
+    padding-left: 90px;
+    padding-top: 110px;
+    padding-right: 90px;
+    padding-bottom: 110px;
+}
+
+.job_title {
+    color: #000000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 0px;
+}
+
+.name_title {
+    color: #000000;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 89px;
+    margin-bottom: 24px;
+}
+
+.about_me_description {
+    max-width: 650px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 60px;
+}
+
+.projects_container {
+    margin-bottom: 50px;
+}
+
+.projects_title {
+    color: #000000;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 10px;
+}
+
+.projects_list {
+    color: #000000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-left: 15px;
+}
+
+.projects_list_item_description {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.work_exp_container {
+    margin-bottom: 55px;
+}
+
+.work_exp_title {
+    color: #000000;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 15px;
+}
+
+.company_name {
+    color: #000000;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 14px;
+    margin-top: 25px;
+}
+
+.company_description_list {
+    margin-left: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.co_name_color_edit {
+    color: #ff6b08;
+}
+
+.timeline_item {
+    color: #595959;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.o_o {
+    color: #000000;
+    font-weight: 1000;
+}
+
+.education_exp_title {
+    color: #000000;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 15px;
+}
+
+.education_description {
+    color: #000000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
